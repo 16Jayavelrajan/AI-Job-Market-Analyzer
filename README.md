@@ -35,3 +35,16 @@ The project includes an interactive dashboard built using Streamlit, allowing us
 7. Predict experience level from user-provided job descriptions
 
 This project demonstrates practical applications of AI/ML, NLP, data preprocessing, and dashboard development in solving real-world analytics problems.
+
+## Dashboard
+
+![Dashboard](screenshots/d1.png)
+![Dashboard](screenshots/d2.png)
+![Dashboard](screenshots/d3.png)
+![Dashboard](screenshots/d4.png)
+![Dashboard](screenshots/d5.png)
+
+## Prediction Output
+
+![Prediction](screenshots/p1.png)
+![Prediction](screenshots/p2.png)
